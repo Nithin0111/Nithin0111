@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="developernithin.com" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/web.svg" />][website]
-[<img align="left" alt="nithin | Twitter" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/twitter.svg" />][twitter]
-[<img align="left" alt="nithin | LinkedIn" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="nithin | Instagram" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/discord.svg" />][discord]
+[<img align="left" alt="developernithin.com" width="22px" src="https://github.com/Nithin0111/Nithin0111/blob/main/assets/web.svg" />][website]
+[<img align="left" alt="nithin | Twitter" width="22px" src="https://github.com/Nithin0111/Nithin0111/blob/main/assets/twitter.svg" />][twitter]
+[<img align="left" alt="nithin | LinkedIn" width="22px" src="https://github.com/Nithin0111/Nithin0111/blob/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="nithin | Instagram" width="22px" src="https://github.com/Nithin0111/Nithin0111/blob/main/assets/discord.svg" />][discord]
 
 <br />
 
@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/nithin7557
 [instagram]: https://instagram.com/harsha0111
 [linkedin]: https://www.linkedin.com/in/nithin-harsha-u-165ba4136/
-[discord]: https://www.discord.gg/nithin7557
+[discord]: https://discordapp.com/users/nithin7557#2871
