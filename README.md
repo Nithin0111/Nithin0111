@@ -45,16 +45,16 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 📊 GitHub Stats:
+--- 
+![Nithin github stats](https://github-readme-stats.vercel.app/api?username=nithin0111&theme=radical&show_icons=true&count_private=true)
+![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithin0111&theme=monokai)
+![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithin0111&theme=monokai)
+![Nithin Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithin0111&theme=monokai)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nithin0111&show_icons=true&hide_border=true&theme=dark" />
- 
- <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin0111&layout=compact&theme=dark)](https://github.com/nithin0111/github-readme-stats)
 
-</details>
+
 
 [website]: https://developernithin.me
 [twitter]: https://twitter.com/nithin7557
