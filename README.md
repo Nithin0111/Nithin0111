@@ -49,6 +49,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nithin0111&show_icons=true&hide_border=true&theme=dark" />
+ 
+ <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin0111&layout=compact&theme=dark)](https://github.com/nithin0111/github-readme-stats)
 
