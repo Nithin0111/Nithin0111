@@ -11,6 +11,9 @@
 - ⚡ Fun fact: I love to star gaze.
 - 🌱 I love to build stuff on web.
 - 👯 I love to learn about ethical hacking aspiring to become one.
+- :telephone_receiver: Best way to contact me is through my [website][website] or on discord [discord][discord]
+- :sweat: I believe in no pain no gain
+
 
 ### Connect with me:
 
