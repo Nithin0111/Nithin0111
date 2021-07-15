@@ -1,5 +1,3 @@
-
-
 ### Hi there, I'm Nithin visit me here 👉 [developernithin.me][website] 👋
 
 [![Website](https://img.shields.io/website?label=developernithin.me&style=for-the-badge&url=https%3A%2F%2Fdevelopernithin.me)](https://developernithin.me)
@@ -16,10 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="developernithin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nithin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="nithin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nithin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="developernithin.com" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/web.svg" />][website]
+[<img align="left" alt="nithin | Twitter" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/twitter.svg" />][twitter]
+[<img align="left" alt="nithin | LinkedIn" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="nithin | Instagram" width="22px" src="https://github.com/Nithin0111/Nithin0111/assets/discord.svg" />][discord]
 
 <br />
 
@@ -46,18 +44,17 @@
 ---
 
 ### 📊 GitHub Stats:
---- 
+
+---
+
 ![Nithin github stats](https://github-readme-stats.vercel.app/api?username=nithin0111&theme=radical&show_icons=true&count_private=true)
 <br />
 ![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithin0111&theme=monokai)
 ![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithin0111&theme=monokai)
 ![Nithin Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithin0111&theme=monokai)
 
-
-
-
-
 [website]: https://developernithin.me
 [twitter]: https://twitter.com/nithin7557
 [instagram]: https://instagram.com/harsha0111
 [linkedin]: https://www.linkedin.com/in/nithin-harsha-u-165ba4136/
+[discord]: https://www.discord.gg/nithin7557
