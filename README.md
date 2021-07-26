@@ -6,7 +6,7 @@
 
 ## I'm a Full stack developer, UI Designer, and an Avid learner !!
 
-<img align="right" alt="GIF" src="https://github.com/Nithin0111/Nithin0111/blob/main/code.gif?raw=true" width="350" height="220" />
+<img align="right" alt="GIF" src="https://github.com/Nithin0111/Nithin0111/blob/main/code.gif?raw=true" width="450" height="320" />
 
 
 - 🌱 I’m currently learning everything related to web 🤣.
@@ -50,7 +50,9 @@
 
 ---
 
-### 📊 GitHub Stats:
+<details>
+
+<summary>:zap: GitHub Stats</summary>
 
 ---
 
@@ -59,6 +61,8 @@
 ![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithin0111&theme=monokai)
 ![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithin0111&theme=monokai)
 ![Nithin Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithin0111&theme=monokai)
+
+</details>
 
 [website]: https://developernithin.me
 [twitter]: https://twitter.com/nithin7557
