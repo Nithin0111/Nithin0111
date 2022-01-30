@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning everything related to web 🤣.
 - 👯 Currently I’m trying to go deep into ReactJs.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects,Learn Rust and dive deep into web3.
 - ⚡ Fun fact: I love to star gaze.
 - 🌱 I love to build stuff on web.
 - 👯 I love to learn about ethical hacking aspiring to become one.
