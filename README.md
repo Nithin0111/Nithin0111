@@ -1,12 +1,12 @@
 ### 👋 Hey there, I'm Nithin a person who loves programming I am a night owl who prefer Dark themes. Find me here 👉 [developernithin.me][website] 👋
 
 [![Website](https://img.shields.io/website?label=developernithin.me&style=for-the-badge&url=https%3A%2F%2Fdevelopernithin.me)](https://developernithin.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nithin7557?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnithin0111&screen_name=nithin7557)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nithin7557?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnithin0111&screen_name=nithin0111)
 
 
 ## I'm a Full stack developer, UI Designer, and an Avid learner !!
 
-<img align="right" alt="GIF" src="https://github.com/Nithin0111/Nithin0111/blob/main/code.gif?raw=true" width="450" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/Nithin0111/Nithin0111/blob/main/code.gif?raw=true" width="450" height="320" /> -->
 
 
 - 🌱 I’m currently learning everything related to web 🤣.
