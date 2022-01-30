@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Nithin a person who loves programming I am a night owl who prefer Dark themes. Find me here 👉 [developernithin.me][website] 👋
 
 [![Website](https://img.shields.io/website?label=developernithin.me&style=for-the-badge&url=https%3A%2F%2Fdevelopernithin.me)](https://developernithin.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nithin7557?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnithin0111&screen_name=nithin0111)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nithin0111?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnithin0111&screen_name=nithin0111)
 
 
 ## I'm a Full stack developer, UI Designer, and an Avid learner !!
@@ -65,7 +65,7 @@
 </details>
 
 [website]: https://developernithin.me
-[twitter]: https://twitter.com/nithin7557
+[twitter]: https://twitter.com/nithin0111
 [instagram]: https://instagram.com/harsha0111
-[linkedin]: https://www.linkedin.com/in/nithin-harsha-u-165ba4136/
-[discord]: https://discordapp.com/users/nithin7557#2871
+[linkedin]: https://www.linkedin.com/in/nithin0111/
+[discord]: https://discordapp.com/users/nithin0111#2871
