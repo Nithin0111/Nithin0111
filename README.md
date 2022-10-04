@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love to star gaze.
 - 🌱 I love to build stuff on web.
 - 👯 I love to learn about ethical hacking aspiring to become one.
-- :telephone_receiver: Best way to contact me is through my mail [nithin@solgames.fun][mail] or on discord [https://discordapp.com/users/nithin0111#2871][discord]
+- :telephone_receiver: Best way to contact me is through my mail [nithin@solgames.fun][mail] or on discord [nithin0111#2871][discord]
 - :sweat: I believe in no pain no gain
 
 
