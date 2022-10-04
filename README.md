@@ -1,6 +1,6 @@
-### 👋 Hey there, I'm Nithin a person who loves programming I am a night owl who prefer Dark themes. Find me here 👉 [developernithin.me][website] 👋
+### 👋 Hey there, I'm Nithin a person who loves programming I am a night owl who prefer Dark themes. Find me here 👉 [https://developernithin.netlify.app/][website] 👋
 
-[![Website](https://img.shields.io/website?label=developernithin.me&style=for-the-badge&url=https%3A%2F%2Fdevelopernithin.me)](https://developernithin.me)
+[![Website](https://img.shields.io/website?label=developernithin.me&style=for-the-badge&url=https%3A%2F%2Fdevelopernithin.me)](https://developernithin.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/nithin0111?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnithin0111&screen_name=nithin0111)
 
 
